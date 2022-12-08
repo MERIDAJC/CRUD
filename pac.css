@@ -60,11 +60,14 @@ button{
         color: blue;
     }
 
+    
 td th{ 
-    border: 2px solid rgb(84, 88, 68);
+   border: 2px solid rgb(84, 88, 68);
     border-radius: 5PX;
-    width: 500px; 
+    width: 400px; 
 }
+
+
 
 body{
     background-color: rgba(192, 153, 106, 0.938);
